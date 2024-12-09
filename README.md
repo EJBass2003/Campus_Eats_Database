@@ -3,4 +3,5 @@ The focus of the project is on the correct design and development of a database 
 
 
 #Screenshots
+
 <img src="GetMaxOrderFunction.png" width=60% height=60%>
